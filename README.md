@@ -100,4 +100,4 @@ Orm框架：MyBatis3 Dynamic Sql
   gitee地址： https://gitee.com/qj-zye/java_pytorch_onnx_tensorrt_yolov8_vue
 
 2.如需详细了解或帮助，可加我微信 ZZ449557260
-![输入图片说明](img/image.png)
+![输入图片说明](data/img/image.png)
